@@ -1,4 +1,5 @@
 <h3>Cenários de testes:</h3>
+https://bugbank.netlify.app/
 
 1) - [ ] Registrar conta com saldo inicial:
    - Dado: que o usuário não possui conta no banco
